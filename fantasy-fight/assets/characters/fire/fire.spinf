@@ -1,0 +1,12 @@
+﻿fire1.png // имя файла спрайта
+70 // ширина кадра
+10 // скорость
+8 // количество состояний // имена состояний и количество кадров в них
+flyR 3
+hurtR 6
+extraFlyR 3
+extraHurtR 6
+flyL 3
+hurtL 6
+extraFlyL 3
+extraHurtL 6

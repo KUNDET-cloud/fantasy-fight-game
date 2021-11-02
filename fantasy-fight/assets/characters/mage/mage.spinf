@@ -1,0 +1,22 @@
+﻿mage.png // имя файла спрайта
+180 // ширина кадра
+10 // скорость
+18 // количество состояний // имена состояний и количество кадров в них
+standR 1
+moveR 5
+jumpR 7
+hurtR 4
+atackR 7
+atackExtraR 7
+deathR 10
+victoryR 10
+atackJumpR 5
+standL 1
+moveL 5
+jumpL 7
+hurtL 4
+atackL 7
+atackExtraL 7
+deathL 10
+victoryL 10
+atackJumpL 5

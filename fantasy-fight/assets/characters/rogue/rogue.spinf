@@ -1,0 +1,22 @@
+﻿rogue.png // имя файла спрайта
+180 // ширина кадра
+10 // скорость
+18 // количество состояний // имена состояний и количество кадров в них
+moveR 6
+standR 1
+moveAtackR 8
+jumpR 12
+atackR 7
+victoryR 13
+hurtR 4
+deathR 10
+atackExtraR 11
+moveL 6
+standL 1
+moveAtackL 8
+jumpL 12
+atackL 7
+victoryL 13
+hurtL 4
+deathL 10
+atackExtraL 11

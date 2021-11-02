@@ -1,0 +1,22 @@
+﻿viking.png // имя файла спрайта
+180 // ширина кадра
+10 // скорость
+18 // количество состояний // имена состояний и количество кадров в них
+standR 1
+moveR 6
+jumpR 10
+atackR 5
+atackExtraR 8
+hurtR 4
+deathR 10
+victoryR 12
+jumpAtackR 6
+standL 1
+moveL 6
+jumpL 10
+atackL 5
+atackExtraL 8
+hurtL 4
+deathL 10
+victoryL 12
+jumpAtackL 6
